@@ -6,7 +6,7 @@ enum operator {
 	MINUS,
 	MULTI,
 	DIVISION,
-}
+};
 
 int main(int argc, char const *argv[])
 {
